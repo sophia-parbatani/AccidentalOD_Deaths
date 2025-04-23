@@ -1,4 +1,4 @@
-# Accidental_OD_Deaths
+# Accidental_OD_Deaths (2012-2023)
 Analysis of trends amongst accidental overdoses in Connecticut
 # Team name and members
 (Team 6) Ari Pais, Esom Nwachukwu, Reya Harees, Sophia Parbatani, Ian Wright
@@ -20,7 +20,7 @@ At our class's current age (20's), the likelihood for an accidental OD starts to
 
 -Ex.) 16 yr old male/female – this cluster commonly attends high school
 
--Targeted resources/intervention for the specific drug affecting given population the most
+-Targeted resources/intervention for the specific drug affecting given population the most.
 
 
 2) __What proportion of total accidental ODs show traces of fentanyl in the tox screen? Does this vary by county?__
