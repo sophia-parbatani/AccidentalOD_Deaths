@@ -15,19 +15,15 @@ Accidental OD’s affect a broad range of demographics
 At our class's current age (20's), the likelihood for an accidental OD starts to rise quickly, peaking at 36 yrs old.
 # Our Questions and why they are important
 Is there a trend among age and sex relevant to drug that causes the OD?
-	
-Clusters of a population often frequent the same areas/activities
-Ex.) 16 yr old male/female – this cluster commonly attends high school
-Targeted resources/intervention for the specific drug affecting given population the most
-
-
-
+	-Clusters of a population often frequent the same areas/activities
+-Ex.) 16 yr old male/female – this cluster commonly attends high school
+-Targeted resources/intervention for the specific drug affecting given population the most
 
 What proportion of total accidental ODs show traces of fentanyl in the tox screen? Does this vary by county?
- The head of the U.S. Drug Enforcement Administration (DEA), Anne Milgram, said that “fentanyl is the single deadliest drug threat our nation has ever encountered.”
-Fentanyl is the top killer among all demographics in drug overdose deaths
-Finding the locations where fentanyl is most common in tox screens could indicate problem areas to public health officials as well as law enforcement. 
-Higher percentage tox containing trace amounts of fentanyl = possible import/activity hotspots
+ -The head of the U.S. Drug Enforcement Administration (DEA), Anne Milgram, said that “fentanyl is the single deadliest drug threat our nation has ever encountered.”
+-Fentanyl is the top killer among all demographics in drug overdose deaths
+-Finding the locations where fentanyl is most common in tox screens could indicate problem areas to public health officials as well as law enforcement. 
+-Higher percentage tox containing trace amounts of fentanyl = possible import/activity hotspots
 
 
 
