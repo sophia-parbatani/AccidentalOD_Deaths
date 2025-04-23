@@ -32,6 +32,6 @@ At our class's current age (20's), the likelihood for an accidental OD starts to
 -Finding the locations where fentanyl is most common in tox screens could indicate problem areas to public health officials as well as law enforcement. 
 
 -Higher percentage tox containing trace amounts of fentanyl = possible import/activity hotspots
-
+#
 
 
