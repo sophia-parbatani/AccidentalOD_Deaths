@@ -39,7 +39,7 @@ At our class's current age (20's), the likelihood for an accidental OD starts to
 -Counted records to show overdose frequency by age, sex, and drug
 -Renamed fields and aliases for clarity (e.g., 10 → 0–10, Pivot Field Names → Drug Type
 
-#Manipulations applied to the data set question #2
+# Manipulations applied to the data set question #2
 -Created a New "record count" field for total deaths 
 -Used Generated Longitude and Latitude in columns and rows, overall filtered by fentanyl 
 -Used color to indicate percentage of total amount of ODs fentanyl respresented 
