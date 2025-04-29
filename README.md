@@ -25,13 +25,13 @@ At our class's current age (20's), the likelihood for an accidental OD starts to
 
 2) __What proportion of total accidental ODs show traces of fentanyl in the tox screen? Does this vary by county?__
 
- -The head of the U.S. Drug Enforcement Administration (DEA), Anne Milgram, said that “fentanyl is the single deadliest drug threat our nation has ever encountered.”
+ - The head of the U.S. Drug Enforcement Administration (DEA), Anne Milgram, said that “fentanyl is the single deadliest drug threat our nation has ever encountered.”
 
--Fentanyl is the top killer among all demographics in drug overdose deaths
+- Fentanyl is the top killer among all demographics in drug overdose deaths
 
--Finding the locations where fentanyl is most common in tox screens could indicate problem areas to public health officials as well as law enforcement. 
+- Finding the locations where fentanyl is most common in tox screens could indicate problem areas to public health officials as well as law enforcement. 
 
--Higher percentage tox containing trace amounts of fentanyl = possible import/activity hotspots
+- Higher percentage tox containing trace amounts of fentanyl = possible import/activity hotspots
 #
 
 
