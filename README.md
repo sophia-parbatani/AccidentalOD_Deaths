@@ -16,11 +16,11 @@ At our class's current age (20's), the likelihood for an accidental OD starts to
 # Our Questions and why they are important
 1) __Is there a trend among age and sex relevant to drug that causes the OD?__
 	
- -Clusters of a population often frequent the same areas/activities
+ - Clusters of a population often frequent the same areas/activities
 
--Ex.) 16 yr old male/female – this cluster commonly attends high school
+- Ex.) 16 yr old male/female – this cluster commonly attends high school
 
--Targeted resources/intervention for the specific drug affecting given population the most
+- Targeted resources/intervention for the specific drug affecting given population the most
 
 
 2) __What proportion of total accidental ODs show traces of fentanyl in the tox screen? Does this vary by county?__
