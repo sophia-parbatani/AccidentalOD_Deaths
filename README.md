@@ -40,7 +40,7 @@ Accidental drug overdoses are the most common type of drug-related death, with 6
 
 Using Tableau, we created heat maps and charts to visualize patterns in fentanyl-related overdoses across counties and demographic groups.
 
-__ Key Findings
+Key Findings
 
 Geographic Insights:
 Our county-level heat map revealed overdose clusters, showing where interventions like public health campaigns, treatment centers, and naloxone distribution should be focused.
