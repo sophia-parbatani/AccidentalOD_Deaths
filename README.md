@@ -28,6 +28,12 @@ Accidental drug overdoses are the most common type of drug-related death, with 6
 - Finding the locations where fentanyl is most common in tox screens could indicate problem areas to public health officials as well as law enforcement. 
 
 - Higher percentage tox containing trace amounts of fentanyl = possible import/activity hotspots
-#
+# Manipulations in the datset
+
+- Filtered records to include only confirmed overdose cases (drug involvement = 'Y') — to focus the analysis on relevant incidents by applying a filter condition.
+- Pivoted drug columns into a single “Drug Type” field — to allow comparison across substances by consolidating multiple drug columns into one using pivot functionality.
+- Created age bins in 10-year intervals — to group individuals for demographic analysis by generating calculated age ranges.
+- Counted records by age, sex, and drug — to measure overdose frequency across categories by aggregating grouped data.
+- Renamed fields and applied aliases — to improve clarity and presentation by updating field labels (e.g., “10” → “0–10”).
 
 
