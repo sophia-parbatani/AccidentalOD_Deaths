@@ -47,7 +47,7 @@ Males aged 21–40 have the highest number of fentanyl-related overdoses, with o
 Females aged 30–50 are most affected by benzodiazepines and cocaine overdoses.
 These trends support the need for age- and gender-targeted interventions.
 
-__Implications__
+__Implications ->__
 
 __Prevention__: Educational outreach, including mental health campaigns like #MentionPrevention
 
@@ -64,3 +64,17 @@ __Source: CDC WONDER – https://wonder.cdc.gov__
 - Displayed text labels to show the number of deaths and corresponding county names for clarity.
 
 # Analysis & Results of Zone Map
+We used Tableau to create a zone (choropleth) map visualizing fentanyl-related overdose deaths across counties in Connecticut. The map was filtered to include only fentanyl cases, with generated latitude and longitude used for geographic accuracy. Color intensity represents the percentage of total fentanyl deaths by county, and labels display the exact death counts.
+
+__Insights:__
+
+New Haven (2,126 deaths) and Hartford (2,110 deaths) are the two leading counties for fentanyl-related deaths.
+Together, they account for nearly 25% of all drug-related deaths in the dataset, signaling a major urban concentration of overdose cases.
+These counties have high population density and urban infrastructure, which may contribute to greater drug availability, socioeconomic stress, and limited healthcare access.
+
+__Implications ->__
+
+Intervention efforts—such as naloxone distribution, addiction treatment centers, and public health education—should be prioritized in urban counties like Hartford and New Haven.
+Geographic visualizations like this help localize resource planning and improve response effectiveness.
+
+__Source: CDC WONDER – https://wonder.cdc.gov__
