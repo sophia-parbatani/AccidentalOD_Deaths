@@ -47,7 +47,7 @@ Males aged 21–40 have the highest number of fentanyl-related overdoses, with o
 Females aged 30–50 are most affected by benzodiazepines and cocaine overdoses.
 These trends support the need for age- and gender-targeted interventions.
 
-__Implications:__
+__Implications__
 
 __Prevention__: Educational outreach, including mental health campaigns like #MentionPrevention
 
