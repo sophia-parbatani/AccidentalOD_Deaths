@@ -49,7 +49,7 @@ These trends support the need for age- and gender-targeted interventions.
 
 __Implications ->__
 
-__Prevention__: Educational outreach, including mental health campaigns like #MentionPrevention
+__Prevention__: Educational outreach, including mental health campaigns like MentionPrevention
 
 __Policy & Resources__: Expand access to treatment centers, counseling, naloxone, and recovery support
 
