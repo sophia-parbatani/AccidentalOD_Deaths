@@ -8,11 +8,7 @@ The notable categorical data: sex, race, county, manner of death: (accidental/in
 The quantitative data to note: age, number of deaths
 ![image](https://github.com/user-attachments/assets/13d01148-403b-4a23-8df4-c41cde18f6a3)
 # Why did we choose this data?
-Accidental drug overdoses are the most common type of drug related death
-65.9% of drug OD deaths had at least one potential opportunity for intervention (cdc.gov)
-Current fentanyl crisis
-Accidental OD’s affect a broad range of demographics
-At our class's current age (20's), the likelihood for an accidental OD starts to rise quickly, peaking at 36 yrs old.
+Accidental drug overdoses are the most common type of drug-related death, with 65.9% involving at least one missed opportunity for intervention (CDC.gov). The ongoing fentanyl crisis has intensified the urgency of this issue. Accidental ODs affect a broad range of demographics, but the risk begins to rise rapidly in our 20s, peaking around age 36—making this data especially relevant to our generation.
 # Our Questions and why they are important
 1) __Is there a trend among age and sex relevant to drug that causes the OD?__
 	
