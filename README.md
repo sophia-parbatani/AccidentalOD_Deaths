@@ -50,7 +50,9 @@ These trends support the need for age- and gender-targeted interventions.
 __Implications:__
 
 __Prevention__: Educational outreach, including mental health campaigns like #MentionPrevention
+
 __Policy & Resources__: Expand access to treatment centers, counseling, naloxone, and recovery support
+
 __Early Intervention__: Implement overdose awareness in schools and colleges, especially for at-risk age groups
 
 __Source: CDC WONDER – https://wonder.cdc.gov__ 
