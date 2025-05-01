@@ -36,8 +36,28 @@ Accidental drug overdoses are the most common type of drug-related death, with 6
 - Counted records by age, sex, and drug — to measure overdose frequency across categories by aggregating grouped data.
 - Renamed fields and applied aliases — to improve clarity and presentation by updating field labels (e.g., “10” → “0–10”).
 
+# Analysis & Results of Heap Map
+
+Using Tableau, we created heat maps and charts to visualize patterns in fentanyl-related overdoses across counties and demographic groups.
+
+__ Key Findings
+
+Geographic Insights:
+Our county-level heat map revealed overdose clusters, showing where interventions like public health campaigns, treatment centers, and naloxone distribution should be focused.
+Demographic Insights (from overdose trends chart):
+Males aged 21–40 have the highest number of fentanyl-related overdoses, with over 1,700 cases in the 21–30 group alone.
+Females aged 30–50 are most affected by benzodiazepines and cocaine overdoses.
+These trends support the need for age- and gender-targeted interventions.
+Implications for Action:
+
+Prevention: Educational outreach, including mental health campaigns like #MentionPrevention
+Policy & Resources: Expand access to treatment centers, counseling, naloxone, and recovery support
+Early Intervention: Implement overdose awareness in schools and colleges, especially for at-risk age groups
+Source: CDC WONDER – https://wonder.cdc.gov
 # Manipulations for the Zone Map
 - Created a new “record count” field to calculate total overdose deaths by counting entries in the dataset.
 - Used generated longitude and latitude to map each case geographically, filtered specifically for fentanyl-related overdoses.
 - Applied color encoding to show the percentage each county contributed to total fentanyl overdoses.
 - Displayed text labels to show the number of deaths and corresponding county names for clarity.
+
+# Analysis & Results of Zone Map
